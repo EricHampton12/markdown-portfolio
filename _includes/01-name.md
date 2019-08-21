@@ -1,3 +1,3 @@
 # Eric Big Header
-# Decent size header
-# Small header
+## Decent size header
+#### Small header
