@@ -1,0 +1,4 @@
+- I love cheeseburgers
+- I have played drums since fifth grade
+- I have an identical twin
+- I love Breaking Bad
