@@ -1,1 +1,1 @@
-+ # This is Eric's header
++# Eric Big Header
